@@ -1,0 +1,83 @@
+@media  screen and (max-width: 768px) {
+    .menuItems{
+        display: none;
+    }
+        
+    .logo{
+        height: 30px;
+    }
+    .menu{
+        display: block;
+    }
+    .centreText{
+        left: 1vh;
+        width: 80%;
+    }
+    .centreText h1{
+        font-size: 30px;
+    }
+    .centreText p{
+        font-size: 12px;
+    }
+    .button{
+        left: 1vh;
+        top: 60vh;
+    }
+    .welcome{
+        font-size: 25px;
+      
+    }
+    .contSect{
+        display: block;
+    }
+    .contSect p{
+        font-size: 12px;
+        padding: 5px;
+    }
+    .contSect h3{
+        font-size: 20px;
+    }
+    .line{
+        width: 150px;
+    }
+    .div1{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        border-radius: 7px;
+    }
+    .div2{
+        width: 80%;
+        margin: 10%;
+        border-radius: 7px;
+    }
+    .div3{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        border-radius: 7px;
+    }
+    .sect3{
+        display: block;
+    }
+    .rightDiv{
+        width: 100%;
+        height: 30vh;
+        background-size: cover;
+    }
+    .leftDiv{
+        width: 70%;
+        margin: 10%;
+        padding: 0;
+        height: 30vh;
+    }
+    .leftDiv p{
+        font-size: 12px;
+    }
+    .leftDiv h3{
+        font-size: 20px;
+    }
+    .leftDiv h2{
+        font-size: 25px;
+    }
+}
